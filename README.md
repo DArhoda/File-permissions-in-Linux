@@ -1,2 +1,2 @@
 # File-permissions-in-Linux
-The research team at my organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure. 
+https://docs.google.com/document/d/1s9xMJk9L6FNnOBFW4NEbmtn6QOU4o4PNcOkT75AkxQw/edit?usp=sharing
